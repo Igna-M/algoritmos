@@ -66,7 +66,7 @@ Los conjuntos parcialmente ordenados son ideales cuando los criterios chocan y u
 
 ### ¿Querés probarlo por tu cuenta?
 
-Encontrarás el notebook completo y el dataset en mi repositorio de GitHub: [[github.com/Igna-M/algoritmos/poset-superheroes](https://github.com/Igna-M/algoritmos/poset-superheroes)]. Clonalo, cambia los criterios y mirá cómo varía la frontera eficiente en tu propio contexto.
+Encontrarás el notebook completo y el dataset en mi repositorio de GitHub: [[github.com/Igna-M/algoritmos/poset-superheroes](https://github.com/Igna-M/algoritmos/tree/main/poset-superheroes)]. Clonalo, cambia los criterios y mirá cómo varía la frontera eficiente en tu propio contexto.
 
 ### Fuentes
 
